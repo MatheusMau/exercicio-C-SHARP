@@ -43,7 +43,7 @@ namespace Matheus
         {
             // Criar um algoritmo que leia dois números L e R.
             // O programa deve verificar a maior área entre um quadrado de lado L e um círculo de raio R.
-            // bolinho
+            // morango
             
 
 
